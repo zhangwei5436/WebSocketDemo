@@ -20,7 +20,7 @@
     
     [[SocketRocketUtilityToolww sharedSocketRocketUtilityToolww] initWebSocketConnectWithUrl:@"ws://testgame.qaq888.com:8100/camel/websocket?userId=851819852162137984"];
     [SocketRocketUtilityToolww sharedSocketRocketUtilityToolww].delegate = self;
-    
+    NSLog(@"提交一下");
 }
 
 #pragma mark - SocketRocketUtilityToolDelegate
