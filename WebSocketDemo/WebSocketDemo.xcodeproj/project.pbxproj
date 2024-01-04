@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		031B6F513A1B066E437FFA75 /* Pods_WebSocketDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11DEF11BF5F87AAEBBC25C24 /* Pods_WebSocketDemo.framework */; };
 		725D53B829AC4B9A0004A77B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 725D53B729AC4B9A0004A77B /* AppDelegate.m */; };
 		725D53BE29AC4B9A0004A77B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 725D53BD29AC4B9A0004A77B /* ViewController.m */; };
 		725D53C329AC4B9C0004A77B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 725D53C229AC4B9C0004A77B /* Assets.xcassets */; };
 		725D53C629AC4B9C0004A77B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 725D53C429AC4B9C0004A77B /* LaunchScreen.storyboard */; };
 		725D53C929AC4B9C0004A77B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 725D53C829AC4B9C0004A77B /* main.m */; };
 		725D53D129AC50A20004A77B /* SocketRocketUtilityToolww.m in Sources */ = {isa = PBXBuildFile; fileRef = 725D53D029AC50A20004A77B /* SocketRocketUtilityToolww.m */; };
+		CD561D052D053EAE35C77466 /* Pods_WebSocketDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 11DEF11BF5F87AAEBBC25C24 /* Pods_WebSocketDemo.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,7 +39,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				031B6F513A1B066E437FFA75 /* Pods_WebSocketDemo.framework in Frameworks */,
+				CD561D052D053EAE35C77466 /* Pods_WebSocketDemo.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

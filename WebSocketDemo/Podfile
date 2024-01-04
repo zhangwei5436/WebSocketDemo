@@ -6,6 +6,6 @@ target 'WebSocketDemo' do
   use_frameworks!
 
   pod 'SocketRocket'
-
+#  pod 'Socket.IO-Client-Swift', '~> 15.2.0'
 
 end
